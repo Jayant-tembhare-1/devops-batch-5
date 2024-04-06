@@ -1,2 +1,7 @@
-this is feature 2
-thoda aur kamm 
+
+this is feature 2 
+thoda aur kam 
+thoda aur kam acchese
+thoda aur kam acchese. aur acchese
+ 
+>>>>>>> 6561999 (Added more changes to feature-2.txt)
